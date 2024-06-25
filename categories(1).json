@@ -1,0 +1,7 @@
+{
+  "categories": {
+    "Network Issues": ["Internet Down", "Slow Connection", "Network Congestion"],
+    "Hardware Issues": ["Computer Not Starting", "Peripheral Not Working", "Overheating"],
+    "Software Issues": ["Application Crash", "Software Update Required", "License Expired"]
+  }
+}
